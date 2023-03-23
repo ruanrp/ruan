@@ -1,0 +1,21 @@
+/* define a cor do link quando o mouse está sobre ele */
+a:hover {
+  color: red;
+}
+
+/* define o estilo da borda para o container */
+.container {
+  border: 2px solid white;
+}
+
+/* define a cor de fundo e de texto para o cabeçalho */
+h1 {
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+
+/* define a margem inferior para os parágrafos */
+p {
+  margin-bottom: 20px;
+}
